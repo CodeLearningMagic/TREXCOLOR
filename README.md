@@ -1,2 +1,1 @@
-# TREXCOLOR
-TREC COLOR CLASE 20
+# Juegos-compatibles-con-dispositivos
